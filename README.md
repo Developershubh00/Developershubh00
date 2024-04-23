@@ -1,12 +1,14 @@
-[logo] 
+![logo](https://github.com/Developershubh00/Developershubh00/blob/main/shubham%20saxena.png) 
 <h2 align="center">Hey Buddy! I'm Shubham Saxena 👋</h2>
 
 <p align="center">
-  <img align="center" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Flinkapi-solutions%2Fhow-to-reach-developer-experience-supreme-level-part-one-ed87015af29f&psig=AOvVaw0FdL8WAZAYvWfMXQKEkAMC&ust=1713920446441000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjkrayR14UDFQAAAAAdAAAAABAJ">
+  <img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/600557/screenshots/3625204/untitled-1.gif">
 </p>
 
 <h3 align="center">Passionate Software Developer | AI/ML Enthusiast</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=developershubh00&label=Profile%20views&color=0e75b6&style=flat" alt="developershubh00" /> </p>
 
+<p align="left"> <a href="https://twitter.com/lifeofsaxena" target="blank"><img src="https://img.shields.io/twitter/follow/lifeofsaxena?logo=twitter&style=for-the-badge" alt="lifeofsaxena" /></a> </p>
 ---
 
 🚀 Full Stack Developer | AI/ML with OpenCV & TensorFlow | Python (Django/Flask)
