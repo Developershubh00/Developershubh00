@@ -21,7 +21,7 @@
 
 📫 Connect with me: [Linktr.ee](https://linktr.ee/lifeofsaxena)
 
-⚡ Fun fact: Beyond coding, I wield a spatula with the finesse of a master chef!
+⚡ Fun fact: Beyond coding, I wield a spatula with the finesse of a master chef!!
 
 
 ---
